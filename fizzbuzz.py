@@ -1,3 +1,5 @@
+# if 문 1개로 fizzbuzz 구현하기(docs)
+
 for i in range(1, 5+1):    
     
     if i % 3 == 0 or i % 5 ==0:
